@@ -17,7 +17,7 @@
 - :volleyball: I am a former Division 1 Athlete
 - :smiley: I enjoy going to the beach, playing video games, and watching anime. 
 
-Technologies Learned:
+### Technologies Learned:
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

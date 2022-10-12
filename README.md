@@ -2,9 +2,16 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+JB+Kam" />
 
+![https://www.linkedin.com/in/justin-b-kam-4105961a5/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
-- 🔭 I am currently enrolled in App Academy 
+
+### About Me :  :bowtie: :bowtie: :bowtie:
+
+- :school: I am a recent graduate of App Academy currently looking for positions to expand my knowledge in the Tech World!
+- :volleyball: I am a former Division 1 Athlete
+- :smiley: I enjoy going to the beach, playing video games, and watching anime. 
 
 Technologies Learned:
 
@@ -22,3 +29,4 @@ Technologies Learned:
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+

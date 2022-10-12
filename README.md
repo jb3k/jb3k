@@ -13,7 +13,7 @@
 
 ### About Me :  :bowtie: :bowtie: :bowtie:
 
-- :school: I am a recent graduate of App Academy currently looking for positions to expand my knowledge in the Tech World!
+- :school: I am a recent graduate of App Academy currently looking for opportunities to expand my knowledge in the Tech World!
 - :volleyball: I am a former Division 1 Athlete
 - :smiley: I enjoy going to the beach, playing video games, and watching anime. 
 

@@ -37,4 +37,5 @@
 
 ### Github Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jb3k&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=jb3k)](https://git.io/streak-stats)
 

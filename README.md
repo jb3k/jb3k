@@ -34,3 +34,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 
+
+### Github Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jb3k&theme=radical)
+
